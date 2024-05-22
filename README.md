@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/software-developer-typographic-header-idea-programming-coding-system-development-digital-technology-developing-company-214134288.jpg)]
 <h1 align="center">Hi 👋, I'm Omkar Nilakhe</h1>
-<h3 align="center">A passionate Full Stack developer from India.</h3>
+<h3 align="center">A passionate Full Stack Developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-nilakhe&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-nilakhe" /> </p>
