@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/software-developer-typographic-header-idea-programming-coding-system-development-digital-technology-developing-company-214134288.jpg)]
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG2H2vBwF9-Kg/profile-displaybackgroundimage-shrink_200_800/0/1692877090232?e=2147483647&v=beta&t=jOkZ2VfzKgRANljxAVpERnW4_T9h9ijhTzUjM7AN-z8)]
 <h1 align="center">Hi 👋, I'm Omkar Nilakhe</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
