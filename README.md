@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nilakheomkar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FGP5_gUsje9SCbLkQ6KlB-UEuxkS35-Y/view?usp=drive_link](https://drive.google.com/file/d/1FGP5_gUsje9SCbLkQ6KlB-UEuxkS35-Y/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FGP5_gUsje9SCbLkQ6KlB-UEuxkS35-Y/view?usp=drive_link](https://drive.google.com/file/d/1j5wzdS91Q0ew5ZdZm3toyownzsCqIzTW/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny.**
 
